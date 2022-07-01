@@ -1,7 +1,7 @@
 # Nest
 Voxel Terrain 3D Engine 
 
-Now on CPU only
++Procedural terrain (Now on CPU only)
 +Physics (Unoptimised)
 
 Control Keys: 
