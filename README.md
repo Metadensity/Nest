@@ -1,5 +1,5 @@
 # Nest
-Voxel Terrain 3D Engine 
+Procedural Voxel Terrain 3D Engine 
 
 +Procedural terrain (Now on CPU only)
 +Physics (Unoptimised)
